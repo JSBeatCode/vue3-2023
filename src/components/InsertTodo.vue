@@ -64,11 +64,6 @@ export default {
             state
         }
     },
-    emits: [
-        // 'funcChange',
-    'funcSubmit'
-    // , 'funcKeyDown'
-    ]
 }
 </script>
 <style lang="">
