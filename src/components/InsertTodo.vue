@@ -28,7 +28,7 @@ export default {
     },
     setup(props, {emit}){
         const state = reactive({
-            todo: props.todo
+            todo: ''
         })
         // const funcChange = (e) => {
         //     const val = e.target.value;

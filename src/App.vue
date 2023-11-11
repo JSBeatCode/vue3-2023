@@ -5,7 +5,6 @@
     />
     <InsertTodo 
       @funcSubmit="funcSubmit"
-      :todo="state.todo"
     />
     <ListTodo 
       :todoList=state.todoList
